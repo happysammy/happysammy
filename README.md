@@ -49,12 +49,6 @@ Hi, I'm Sammy Shi, a developer from Shanghai, China.
 
 
 
-## ⚡ Github Vistor Stats:
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=happysammy)
-
-
-
 
 
 
